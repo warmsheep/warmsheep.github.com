@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Warmsheep's Blog]]></title>
-  <link href="http://warmsheep.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: testing | Warmsheep's Blog]]></title>
+  <link href="http://warmsheep.github.com/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://warmsheep.github.com/"/>
   <updated>2012-06-08T01:42:29+08:00</updated>
   <id>http://warmsheep.github.com/</id>
@@ -19,15 +19,6 @@
     <updated>2012-06-07T18:05:00+08:00</updated>
     <id>http://warmsheep.github.com/blog/2012/06/07/ce-shi-zhong-wen-biao-ti</id>
     <content type="html"><![CDATA[<p>接下来测试修改内容是否能保存备份。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[testing]]></title>
-    <link href="http://warmsheep.github.com/blog/2012/06/07/testing/"/>
-    <updated>2012-06-07T16:33:00+08:00</updated>
-    <id>http://warmsheep.github.com/blog/2012/06/07/testing</id>
-    <content type="html"><![CDATA[<p>测试是否支持中文</p>
 ]]></content>
   </entry>
   
