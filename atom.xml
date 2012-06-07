@@ -4,7 +4,7 @@
   <title><![CDATA[Warmsheep's Blog]]></title>
   <link href="http://warmsheep.github.com/atom.xml" rel="self"/>
   <link href="http://warmsheep.github.com/"/>
-  <updated>2012-06-07T18:05:54+08:00</updated>
+  <updated>2012-06-07T20:07:13+08:00</updated>
   <id>http://warmsheep.github.com/</id>
   <author>
     <name><![CDATA[Warmsheep]]></name>
@@ -18,7 +18,7 @@
     <link href="http://warmsheep.github.com/blog/2012/06/07/ce-shi-zhong-wen-biao-ti/"/>
     <updated>2012-06-07T18:05:00+08:00</updated>
     <id>http://warmsheep.github.com/blog/2012/06/07/ce-shi-zhong-wen-biao-ti</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>接下来测试修改内容是否能保存备份。</p>
 ]]></content>
   </entry>
   
