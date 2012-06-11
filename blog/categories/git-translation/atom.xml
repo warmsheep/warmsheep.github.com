@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Git_Translation | warmsheep]]></title>
   <link href="http://warmsheep.github.com/blog/categories/git-translation/atom.xml" rel="self"/>
   <link href="http://warmsheep.github.com/"/>
-  <updated>2012-06-11T11:05:27+08:00</updated>
+  <updated>2012-06-11T11:12:23+08:00</updated>
   <id>http://warmsheep.github.com/</id>
   <author>
     <name><![CDATA[Warmsheep]]></name>
@@ -36,7 +36,7 @@
 
 <p>For text and code projects,the back-up strategy typically includes version control,or tracking and managing revisions.Each developer can make serveral revisions per day, and the ever-increasing corpus serves simultaneously as repository,project narrative,communication medium,and team and product management tool.Given its pivotal role,version control is most effective when tailored to the working habits and goals of the project team.</p>
 
-<p>在一些文本和代码项目中，备份策略具有代表性的包含版本控制，跟踪和管理修正。每个开发者每天都可以做数次修正，同时在库中语料资料不断增长，项目记录，通讯媒介，小组以及产品管理工具。考虑到它的关键角色，当在项目项目中制定工作习惯和目标时，版本控制是最高效的。</p>
+<p>在一些文本和代码项目中，备份策略具有代表性的包含版本控制，跟踪和管理修正。每个开发者每天都可以做数次修正，同时在库中语料资料不断增长：项目记录、通讯媒介、小组以及产品管理工具。考虑到它的关键角色，当在项目中制定工作习惯和目标时，版本控制是最高效的。</p>
 ]]></content>
   </entry>
   
