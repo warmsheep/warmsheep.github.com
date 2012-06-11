@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Git_Translation | warmsheep]]></title>
   <link href="http://warmsheep.github.com/blog/categories/git-translation/atom.xml" rel="self"/>
   <link href="http://warmsheep.github.com/"/>
-  <updated>2012-06-11T11:12:23+08:00</updated>
+  <updated>2012-06-11T12:31:03+08:00</updated>
   <id>http://warmsheep.github.com/</id>
   <author>
     <name><![CDATA[Warmsheep]]></name>
@@ -18,23 +18,15 @@
     <link href="http://warmsheep.github.com/blog/2012/06/11/version-control-with-git-chapter-1/"/>
     <updated>2012-06-11T10:08:00+08:00</updated>
     <id>http://warmsheep.github.com/blog/2012/06/11/version-control-with-git-chapter-1</id>
-    <content type="html"><![CDATA[<p>Charpter 1</p>
+    <content type="html"><![CDATA[<h1>Introduction-介绍</h1>
 
-<p>章节一</p>
+<h2>Backgroud-背景</h2>
 
-<p>Introduction</p>
-
-<p>介绍</p>
-
-<p>Backgroud</p>
-
-<p>背景</p>
-
-<p>No cautious,creative person starts a project nowadays without a back-up strategy.Because data is ephemeral and can be lost easily--through an errant code change or a catastrophic disk crash,say--it is wise to maintain a living archive of all work.</p>
+<blockquote><p>No cautious,creative person starts a project nowadays without a back-up strategy.Because data is ephemeral and can be lost easily--through an errant code change or a catastrophic disk crash,say--it is wise to maintain a living archive of all work.</p></blockquote>
 
 <p>不谨慎的话，现在人们启动一个项目并不会创建一个备份策略。因为数据是是短暂的并且很容易丢失——通过不定时的代码修改或者一个灾难性的磁盘crash，他会说--他会智能的去修复一个现有的档案。</p>
 
-<p>For text and code projects,the back-up strategy typically includes version control,or tracking and managing revisions.Each developer can make serveral revisions per day, and the ever-increasing corpus serves simultaneously as repository,project narrative,communication medium,and team and product management tool.Given its pivotal role,version control is most effective when tailored to the working habits and goals of the project team.</p>
+<blockquote><p>For text and code projects,the back-up strategy typically includes version control,or tracking and managing revisions.Each developer can make serveral revisions per day, and the ever-increasing corpus serves simultaneously as repository,project narrative,communication medium,and team and product management tool.Given its pivotal role,version control is most effective when tailored to the working habits and goals of the project team.</p></blockquote>
 
 <p>在一些文本和代码项目中，备份策略具有代表性的包含版本控制，跟踪和管理修正。每个开发者每天都可以做数次修正，同时在库中语料资料不断增长：项目记录、通讯媒介、小组以及产品管理工具。考虑到它的关键角色，当在项目中制定工作习惯和目标时，版本控制是最高效的。</p>
 ]]></content>
