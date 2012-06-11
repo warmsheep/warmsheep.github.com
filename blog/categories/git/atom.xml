@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Git | warmsheep]]></title>
   <link href="http://warmsheep.github.com/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://warmsheep.github.com/"/>
-  <updated>2012-06-11T16:48:44+08:00</updated>
+  <updated>2012-06-11T16:50:08+08:00</updated>
   <id>http://warmsheep.github.com/</id>
   <author>
     <name><![CDATA[Warmsheep]]></name>
@@ -32,7 +32,7 @@
 
 <p>This book covers Git,a particularly powerful, flexible, and low-overhead version control tool that makes collaborative development a pleasure.Git was invented by Linus Torvalds to support the development of the Linux Kernel,but it has since proven valuable to a wide range of projects.</p></blockquote>
 
-<h2>The Birth of Git</h2>
+<h2>The Birth of Git-Git的起源</h2>
 
 <blockquote><p>Often,when there is discord between a tool and a project,the developers simply create a new tool.Indeed,in the world of software,the temptation to create new tools can be deceptively easy and inviting.In the face of many existing version control systems,the decision to create another shouldn't be made casually.However,given a critical need,a bit of insight,and a healthy dose of motivation,forging a new tool can be exactly the right course.</p>
 
