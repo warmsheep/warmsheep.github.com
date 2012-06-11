@@ -4,7 +4,7 @@
   <title><![CDATA[warmsheep]]></title>
   <link href="http://warmsheep.github.com/atom.xml" rel="self"/>
   <link href="http://warmsheep.github.com/"/>
-  <updated>2012-06-11T12:32:30+08:00</updated>
+  <updated>2012-06-11T16:39:06+08:00</updated>
   <id>http://warmsheep.github.com/</id>
   <author>
     <name><![CDATA[Warmsheep]]></name>
@@ -29,6 +29,18 @@
 <blockquote><p>For text and code projects,the back-up strategy typically includes version control,or tracking and managing revisions.Each developer can make serveral revisions per day, and the ever-increasing corpus serves simultaneously as repository,project narrative,communication medium,and team and product management tool.Given its pivotal role,version control is most effective when tailored to the working habits and goals of the project team.</p></blockquote>
 
 <p>在一些文本和代码项目中，备份策略具有代表性的包含版本控制，跟踪和管理修正。每个开发者每天都可以做数次修正，同时在库中语料资料不断增长：项目记录、通讯媒介、小组以及产品管理工具。考虑到它的关键角色，当在项目中制定工作习惯和目标时，版本控制是最高效的。</p>
+
+<blockquote><p>A tool that manages and tracks different versions of software or other content is referred to generically as a version control system (VCS),a source code manager (SCM),a revision control system (RCS), and with several other permutations of the words &#8220;revision&#8221;,&#8221;version&#8221;,&#8221;content&#8221;,&#8221;control&#8221;,&#8221;management&#8221; and &#8220;system&#8221;.Although the authors and users of each tool might debate esoterics,each system addresses the same issues:develop and maintain a repository of content,provide access to historical editions of each datum, and record all changes in a log.In this book,the term version control system (VCS) is used to refer generically to any form of revision control system.</p>
+
+<p>This book covers Git,a particularly powerful, flexible, and low-overhead version control tool that makes collaborative development a pleasure.Git was invented by Linus Torvalds to support the development of the Linux Kernel,but it has since proven valuable to a wide range of projects.</p></blockquote>
+
+<h2>The Birth of Git</h2>
+
+<blockquote><p>Often,when there is discord between a tool and a project,the developers simply create a new tool.Indeed,in the world of software,the temptation to create new tools can be deceptively easy and inviting.In the face of many existing version control systems,the decision to create another shouldn&#8217;t be made casually.However,given a critical need,a bit of insight,and a healthy dose of motivation,forging a new tool can be exactly the right course.</p>
+
+<p>Git,affectionately termed &#8220;the information manager from hell&#8221; by its creator is such a tool.Although the precise circumstances and timing of its genesis are shrouded in political wrangling within the Linux Kernel community,there is no doubt that what came from that fireis a well-engineered version control system capable of supporting worldwide development of software on a large scale.</p>
+
+<p>Prior to Git,the Linux Kernel was developed using the commercial BitKeeper VCS,which provided sophisticated operations not ayailable in then-current,free software version control systems such as RCS and CVS.However,when the company that owned BitKeeper placed additional restrictions on its &#8220;free as in beer&#8221; version in the spring of 2005,the Linux community realized that BitKeeper was no longer a viable solution.</p></blockquote>
 ]]></content>
   </entry>
   
