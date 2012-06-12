@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: vi | warmsheep]]></title>
+  <link href="http://warmsheep.github.com/blog/categories/vi/atom.xml" rel="self"/>
+  <link href="http://warmsheep.github.com/"/>
+  <updated>2012-06-12T17:30:29+08:00</updated>
+  <id>http://warmsheep.github.com/</id>
+  <author>
+    <name><![CDATA[Warmsheep]]></name>
+    <email><![CDATA[warmsheep@me.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Vi Command]]></title>
+    <link href="http://warmsheep.github.com/blog/2012/06/12/vi-command/"/>
+    <updated>2012-06-12T17:01:00+08:00</updated>
+    <id>http://warmsheep.github.com/blog/2012/06/12/vi-command</id>
+    <content type="html"><![CDATA[<p>以前对于Vi/Vim都是属于非常基础的操作阶段，很笨拙地写文本，用起来实在不方便。后看了同事转载的一篇文章，试着记了一下快捷键，熟悉一点之后，发现vi原来是如此强大。
+不过过多的命令也会影响学习的效率，初期我们应该掌握最有效的命令在vi中存活下来。于是整理下，把个人用得最习惯最常用的命令。</p>
+
+<p>我们首先进入vi/vim最基础的操作如何操作，我们使用如下命令可进入编辑模式</p>
+
+<blockquote><p>i  --在光标当前位置插入（这或许是所有人一开始使用最多的插入命令）</p>
+
+<p>a  --在光标后一个字符进入插入</p>
+
+<p>o  --在光标之下新建一行后插入</p>
+
+<p>O  --在光标之上新建一行后插入</p>
+
+<p>cw  --替换从光标所在位置后到一个单词结尾的字符并插入</p></blockquote>
+
+<p>无疑i和o的插入模式是最自然，最顺手的两种。</p>
+]]></content>
+  </entry>
+  
+</feed>
